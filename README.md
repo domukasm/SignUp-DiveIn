@@ -20,7 +20,6 @@ Design: [Dive Into](./img/design.webp)
 ## 🎯 Project features/goals
 
 -   Github pages
--   responsive design
 -   CSS animation
 -   form
 -   FontAwesome icons
