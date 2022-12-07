@@ -1,0 +1,22 @@
+:root {
+    --width: 1300px;
+}
+
+body * {
+    box-sizing: border-box;
+}
+  
+  .column {
+    float: left;
+    padding: 10px;
+    height: 300px;
+  }
+  
+  .left,
+  .right {
+    width: 25%;
+  }
+  
+  .middle {
+    width: 50%;
+  }
